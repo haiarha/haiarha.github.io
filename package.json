@@ -1,0 +1,22 @@
+{
+  "name": "haiarha.github.io",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "prerender": "nuxt build --target static && nuxt export"
+  },
+  "author": {
+    "name": "Haiarha",
+    "email": "mydlenvadim@gmail.com",
+    "url": "https://haiarha.github.io/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haiarha/haiarha.github.io.git"
+  },
+  "dependencies": {
+    "nuxt": "^2.13.0"
+  }
+}
